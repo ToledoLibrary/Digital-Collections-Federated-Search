@@ -1,0 +1,2552 @@
+[
+  {
+    "id": 1,
+    "url": "https://tlcpllochhis.omeka.net/api/items/1",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:44:38+00:00",
+    "modified": "2020-02-11T17:44:38+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=1",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "American Institute of Banking, Toledo Chapter Scrapbooks - Mss. Coll. 257",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=1",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "url": "https://tlcpllochhis.omeka.net/api/items/2",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:45:16+00:00",
+    "modified": "2020-02-11T17:45:16+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=2",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Americanization Board Collection, 1919-1925 - Sm. Coll. 38",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=2",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "url": "https://tlcpllochhis.omeka.net/api/items/3",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:45:46+00:00",
+    "modified": "2020-02-11T17:45:46+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=3",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Ames, Edward Carder, Collection - Mss. Coll. 142",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=3",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "url": "https://tlcpllochhis.omeka.net/api/items/4",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:46:12+00:00",
+    "modified": "2020-02-11T17:46:12+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=4",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Anderson, Elaine, Collection - Mss. Coll. 153",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=4",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "url": "https://tlcpllochhis.omeka.net/api/items/5",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:46:41+00:00",
+    "modified": "2020-02-11T17:46:41+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=5",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Association of Historical & Ancestral Societies - Mss. Coll. 70",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=5",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "url": "https://tlcpllochhis.omeka.net/api/items/6",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:47:06+00:00",
+    "modified": "2020-02-11T17:47:06+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=6",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Athena Art Society Collection - Mss. Coll. 28",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=6",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "url": "https://tlcpllochhis.omeka.net/api/items/7",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:47:35+00:00",
+    "modified": "2020-02-11T17:47:35+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=7",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Autograph Collection - BRBR Coll. 2",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=7",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "url": "https://tlcpllochhis.omeka.net/api/items/8",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:47:58+00:00",
+    "modified": "2020-02-11T17:47:58+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=8",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Backus, Elise McDowell, Collection - BRBR Coll. 5",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=8",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "url": "https://tlcpllochhis.omeka.net/api/items/9",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:48:21+00:00",
+    "modified": "2020-02-11T17:48:21+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=9",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Banks of Greater Toledo Collection - Mss. Coll. 39",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=9",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "url": "https://tlcpllochhis.omeka.net/api/items/10",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:48:47+00:00",
+    "modified": "2020-02-11T17:48:47+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=10",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Battle of Fallen Timbers Commemorative Stamp Collection - Mss. Coll. 132",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=10",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "url": "https://tlcpllochhis.omeka.net/api/items/11",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:49:22+00:00",
+    "modified": "2020-02-11T17:49:22+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=11",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Bentley, Ethel, Collection - Mss. Coll. 37",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=11",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "url": "https://tlcpllochhis.omeka.net/api/items/12",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:49:43+00:00",
+    "modified": "2020-02-11T17:49:43+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=12",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Binkley, Diana Elizabeth Long, Scrapbook - Sm. Coll. 86",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=12",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "url": "https://tlcpllochhis.omeka.net/api/items/13",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:50:11+00:00",
+    "modified": "2020-02-11T17:50:11+00:00",
+    "item_type": {
+      "id": 6,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/6",
+      "name": "Still Image",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=13",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Black American History Papers - Mss. Coll. 27",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=13",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "url": "https://tlcpllochhis.omeka.net/api/items/14",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:51:11+00:00",
+    "modified": "2020-02-11T17:51:11+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=14",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Black Swamp Blues Society Collection - Mss. Coll. 313",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=14",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 15,
+    "url": "https://tlcpllochhis.omeka.net/api/items/15",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:51:34+00:00",
+    "modified": "2020-02-11T17:51:34+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=15",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Boats and Boating Collection - Sm. Coll. 13",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=15",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 16,
+    "url": "https://tlcpllochhis.omeka.net/api/items/16",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:51:56+00:00",
+    "modified": "2020-02-11T17:51:56+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=16",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Boyd, Rev. Robert D., Collection - Mss. Coll. 135",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=16",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 17,
+    "url": "https://tlcpllochhis.omeka.net/api/items/17",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:52:16+00:00",
+    "modified": "2020-02-11T17:52:16+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=17",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Brand Whitlock Homes Cornerstone Collection - Mss. Coll. 312",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=17",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 18,
+    "url": "https://tlcpllochhis.omeka.net/api/items/18",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:52:42+00:00",
+    "modified": "2020-02-11T17:52:42+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=18",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Brand, Constance Woolson, Collection - MVHS Coll. 11",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=18",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 19,
+    "url": "https://tlcpllochhis.omeka.net/api/items/19",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:53:03+00:00",
+    "modified": "2020-02-11T17:53:03+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=19",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Brophy, Thomas, Collection - Sm. Coll. 2",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=19",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 20,
+    "url": "https://tlcpllochhis.omeka.net/api/items/20",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:53:24+00:00",
+    "modified": "2020-02-11T17:53:24+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=20",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Brown, Joe E., Day Scrapbook - Mss. Coll. 277",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=20",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 21,
+    "url": "https://tlcpllochhis.omeka.net/api/items/21",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:53:47+00:00",
+    "modified": "2020-02-11T17:53:47+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=21",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Businesses and Industries of Greater Toledo Collection - Mss. Coll. 36",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=21",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 22,
+    "url": "https://tlcpllochhis.omeka.net/api/items/22",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:54:10+00:00",
+    "modified": "2020-02-11T17:54:10+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=22",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Callahan, John J., Papers - Mss. Coll. 274",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=22",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 23,
+    "url": "https://tlcpllochhis.omeka.net/api/items/23",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:54:36+00:00",
+    "modified": "2020-02-11T17:54:36+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=23",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Canal Memorabilia - Sm. Coll. 28",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=23",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 24,
+    "url": "https://tlcpllochhis.omeka.net/api/items/24",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:54:55+00:00",
+    "modified": "2020-02-11T17:54:55+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=24",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Centennials & Celebrations Collection - Mss. Coll. 121",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=24",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 25,
+    "url": "https://tlcpllochhis.omeka.net/api/items/25",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:55:18+00:00",
+    "modified": "2020-02-11T17:55:18+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=25",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Churches of Toledo Collection - Mss. Coll. 20",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=25",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 26,
+    "url": "https://tlcpllochhis.omeka.net/api/items/26",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:55:43+00:00",
+    "modified": "2020-02-11T17:55:43+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=26",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "City of Toledo Charter Review Commission Collection - Mss. Coll. 265",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=26",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 27,
+    "url": "https://tlcpllochhis.omeka.net/api/items/27",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:56:06+00:00",
+    "modified": "2020-02-11T17:56:06+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=27",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "City of Toledo Official Correspondence - MVHS Coll. 9",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=27",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 28,
+    "url": "https://tlcpllochhis.omeka.net/api/items/28",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:56:38+00:00",
+    "modified": "2020-02-11T17:56:38+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=28",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Civil War Papers - Mss. Coll. 8",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=28",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 29,
+    "url": "https://tlcpllochhis.omeka.net/api/items/29",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:57:02+00:00",
+    "modified": "2020-02-11T17:57:02+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=29",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Clubs & Organizations of Greater Toledo Collection - Mss. Coll. 41",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=29",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 30,
+    "url": "https://tlcpllochhis.omeka.net/api/items/30",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:57:24+00:00",
+    "modified": "2020-02-11T17:57:24+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=30",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Cochran, Negley, Collection - Mss. Coll. 34",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=30",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 31,
+    "url": "https://tlcpllochhis.omeka.net/api/items/31",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:57:42+00:00",
+    "modified": "2020-02-11T17:57:42+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=31",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Collins, Whitney and Heston Papers - Mss. Coll. 13",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=31",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 32,
+    "url": "https://tlcpllochhis.omeka.net/api/items/32",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:58:06+00:00",
+    "modified": "2020-02-11T17:58:06+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=32",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Colton, Olive A., Scrapbooks - Mss. Coll. 12",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=32",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 33,
+    "url": "https://tlcpllochhis.omeka.net/api/items/33",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:58:34+00:00",
+    "modified": "2020-02-11T17:58:34+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=33",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Community Traction Company, Coffin Award Presentation, 1930 - BRBR Coll. 6",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=33",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 34,
+    "url": "https://tlcpllochhis.omeka.net/api/items/34",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:59:01+00:00",
+    "modified": "2020-02-11T17:59:01+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=34",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Cook & Kirtland Account Book - MVHS Coll. 2",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=34",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 35,
+    "url": "https://tlcpllochhis.omeka.net/api/items/35",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:59:23+00:00",
+    "modified": "2020-02-11T17:59:23+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=35",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Cook, Louisa, Letters - Sm. Coll. 19",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=35",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 36,
+    "url": "https://tlcpllochhis.omeka.net/api/items/36",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T17:59:49+00:00",
+    "modified": "2020-02-11T17:59:49+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=36",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Corey Woods Garden Club Collection - Mss. Coll. 219",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=36",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 37,
+    "url": "https://tlcpllochhis.omeka.net/api/items/37",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T18:00:11+00:00",
+    "modified": "2020-02-11T18:00:11+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=37",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Crane, Emily Lois Boice, Scrapbook - Mss. Coll. 223",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=37",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 38,
+    "url": "https://tlcpllochhis.omeka.net/api/items/38",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T18:00:31+00:00",
+    "modified": "2020-02-11T18:00:31+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=38",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Cullen, Gerald, Collection - Mss. Coll. 105",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=38",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 39,
+    "url": "https://tlcpllochhis.omeka.net/api/items/39",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T18:00:57+00:00",
+    "modified": "2020-02-11T18:00:57+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=39",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Cummins, Calvin Clark, Genealogical Research Collection - Mss. Coll. 298",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=39",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 40,
+    "url": "https://tlcpllochhis.omeka.net/api/items/40",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T18:01:17+00:00",
+    "modified": "2020-02-11T18:01:17+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=40",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Dahn, Adelaide, Collection - Mss. Coll. 11",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=40",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 41,
+    "url": "https://tlcpllochhis.omeka.net/api/items/41",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T18:01:37+00:00",
+    "modified": "2020-02-11T18:01:37+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=41",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "DeVilbiss High School Social Scrapbooks, 1931-1941 - Mss. Coll. 165",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=41",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 42,
+    "url": "https://tlcpllochhis.omeka.net/api/items/42",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T18:01:59+00:00",
+    "modified": "2020-02-11T18:01:59+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=42",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Early NW Ohio Documents (Pre 1850) Collection - BRBR Coll. 4",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=42",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 43,
+    "url": "https://tlcpllochhis.omeka.net/api/items/43",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T18:02:44+00:00",
+    "modified": "2020-02-11T18:02:44+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=43",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Elgutter, Ruth, Scrapbooks, 1947-1966 - Mss. Coll. 304",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=43",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 44,
+    "url": "https://tlcpllochhis.omeka.net/api/items/44",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T18:03:01+00:00",
+    "modified": "2020-02-11T18:03:11+00:00",
+    "item_type": {
+      "id": 6,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/6",
+      "name": "Still Image",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=44",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Eliot, Harry, Prints - BRBR Coll. 3",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=44",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 45,
+    "url": "https://tlcpllochhis.omeka.net/api/items/45",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T18:04:48+00:00",
+    "modified": "2020-02-11T18:04:48+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=45",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Ethnic Collection - Sm. Coll. 77",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=45",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 46,
+    "url": "https://tlcpllochhis.omeka.net/api/items/46",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T18:05:59+00:00",
+    "modified": "2020-02-11T18:05:59+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=46",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Fathers & Mothers for Equal Rights Collection - Mss. Coll. 279",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=46",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 47,
+    "url": "https://tlcpllochhis.omeka.net/api/items/47",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T18:06:19+00:00",
+    "modified": "2020-02-11T18:06:19+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=47",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Foley, Eileen, Newspaper Columns - Mss. Coll. 263",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=47",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 48,
+    "url": "https://tlcpllochhis.omeka.net/api/items/48",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T18:06:41+00:00",
+    "modified": "2020-02-11T18:06:41+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=48",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Friends of the Library, TLCPL - Mss. Coll. 259",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=48",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 49,
+    "url": "https://tlcpllochhis.omeka.net/api/items/49",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T18:07:02+00:00",
+    "modified": "2020-02-11T18:07:02+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=49",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Genealogical Organizations Collection - Mss. Coll. 24",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=49",
+        "resource": "exhibit_pages"
+      }
+    }
+  },
+  {
+    "id": 50,
+    "url": "https://tlcpllochhis.omeka.net/api/items/50",
+    "public": true,
+    "featured": false,
+    "added": "2020-02-11T18:07:23+00:00",
+    "modified": "2020-02-11T18:07:23+00:00",
+    "item_type": {
+      "id": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/item_types/1",
+      "name": "Text",
+      "resource": "item_types"
+    },
+    "collection": null,
+    "owner": {
+      "id": 52834,
+      "url": "https://tlcpllochhis.omeka.net/api/users/52834",
+      "resource": "users"
+    },
+    "files": {
+      "count": 1,
+      "url": "https://tlcpllochhis.omeka.net/api/files?item=50",
+      "resource": "files"
+    },
+    "tags": [],
+    "element_texts": [
+      {
+        "html": false,
+        "text": "Genealogies Collection - Mss. Coll. 231",
+        "element_set": {
+          "id": 1,
+          "url": "https://tlcpllochhis.omeka.net/api/element_sets/1",
+          "name": "Dublin Core",
+          "resource": "element_sets"
+        },
+        "element": {
+          "id": 50,
+          "url": "https://tlcpllochhis.omeka.net/api/elements/50",
+          "name": "Title",
+          "resource": "elements"
+        }
+      }
+    ],
+    "extended_resources": {
+      "exhibit_pages": {
+        "count": 0,
+        "url": "https://tlcpllochhis.omeka.net/api/exhibit_pages?item=50",
+        "resource": "exhibit_pages"
+      }
+    }
+  }
+]
